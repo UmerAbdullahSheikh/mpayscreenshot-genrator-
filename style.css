@@ -6,6 +6,7 @@
 body {
     font-size: 15pt;
       background: #7AC5F0;
+     font-family: sans-serif;
 
 }
 
@@ -26,7 +27,8 @@ body {
   background: white;
   position: relative;
   border-radius: 2.5px;
-   
+
+   font-family: sans-serif;
 
   box-shadow: .4px 5px  8px #4B545578;
 }
