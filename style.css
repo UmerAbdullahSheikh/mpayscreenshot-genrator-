@@ -22,7 +22,7 @@ body {
 
 .ss{
   width: 80vw;
-  height: 71vw;
+  height: 73vw;
   background: white;
   position: relative;
   border-radius: 2.5px;
@@ -74,8 +74,8 @@ h3{
 
 }
 p{
-  margin: 23px;
-  font-size: 79%;
+  margin: 20px;
+  font-size: 75%;
   color:#4C5455;
 }
 .p2{
